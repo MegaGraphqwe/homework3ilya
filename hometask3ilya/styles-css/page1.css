@@ -1,0 +1,144 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-image: url(../png/backg.png);
+    background-size: cover;
+    padding-top: 120px;
+    padding-bottom: 138px;
+    margin: auto;
+
+}
+
+.cont {
+    max-width: 1146px;
+    margin: auto;
+}
+
+.headp {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+h1 {
+    color: #003395;
+    margin-bottom: 27px;
+    font-weight: 500;
+    line-height: 63px;
+    font-size: 54px;
+
+}
+
+
+nav {
+    background-color: #003395;
+    padding-top: 27px;
+    padding-bottom: 26px;
+}
+
+.nava {
+    color: #FFFFFF;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 62px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+main {
+    padding: 57px 0 62px 0;
+}
+
+h2 {
+    border-top: 2px solid #003395;
+    border-bottom: 2px solid #003395;
+    padding-top: 13px;
+    padding-bottom: 15px;
+    color: #003395;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 32px;
+
+}
+.mainp {
+    display: inline-block;
+    width: 754px;
+    vertical-align: top;
+}
+
+.lanin{
+    color:#003395;
+}
+
+
+.ptext {
+    padding: 16px 0px 34px 0px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.rightdiv {
+    display: inline-block;
+    width: 362px;
+    margin-left: 26px;
+    vertical-align: top;
+}
+
+.news {
+    border: 2px solid #33008D;
+    padding: 19px 19px 26px 19px;
+    margin-bottom: 55px;
+}
+
+h3 {
+    padding: 14px 17px;
+    background-color: #24B0FF;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 32px;
+}
+
+
+.pnews {
+    line-height: 163.3%;
+    font-weight: 400;
+    font-size: 16.2px;
+    line-height: 163.35%;
+    padding-top: 14px;
+}
+
+.linkblock {
+    border: 2px solid #33008D;
+    padding: 22px 19px 26px 19px;
+    margin-bottom: 158px;
+}
+
+ul {
+    list-style: none;
+    line-height: 163.3%;
+    font-weight: 400;
+    font-size: 16.2px;
+    line-height: 163.35%;
+    padding-top: 22px;
+}
+
+.lia {
+    color: #30233D;
+}
+
+footer {
+    background: linear-gradient(180deg, #003395 0%, #00205F 100%);
+    padding: 45px 187px 83px 0;
+    text-align: right;
+    color: #FFFFFF;
+}
